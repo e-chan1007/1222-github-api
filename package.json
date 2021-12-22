@@ -1,0 +1,13 @@
+{
+  "name": "1222-github-api",
+  "dependencies": {
+    "octokit": "^1.7.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.6.0-dev.20211222"
+  },
+  "engines": {
+    "node": ">=14.8.x"
+  }
+}
